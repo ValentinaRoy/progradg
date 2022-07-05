@@ -42,7 +42,7 @@ select
    
     font-family: monospace;
     font-size: 15px;
-    color: rgb(120, 120, 120);
+    color: rgb(212, 212, 212);
 }
 span{
    
@@ -83,3 +83,7 @@ input[type="submit"]{
     
     background-color:  rgba(121, 23, 174, 0.77);
 }
+::placeholder { 
+    color: rgb(255, 255, 255);
+    opacity: 1; 
+  }
